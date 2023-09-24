@@ -1,0 +1,13 @@
+{
+  "${modID}:The Landlord": {
+    "NAMES": [
+      "The Landlord",
+      "the Landlord"
+    ],
+    "TEXT": [
+      "A loved member of a small community, renting property. NL Uses gold earned rightfully from their tenants.",
+      " NL Text displayed when smacking the heart. The next one is used for the Vampires event. Usually you just change the last bit.",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~greedy~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
+  }
+}

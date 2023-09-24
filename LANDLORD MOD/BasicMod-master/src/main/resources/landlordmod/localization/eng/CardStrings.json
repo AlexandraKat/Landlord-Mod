@@ -1,0 +1,144 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:LandLordCards": {
+    "NAME": "Bonk",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage."
+  },
+  "${modID}:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "${modID}:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "${modID}:Rent": {
+    "NAME": "Rent",
+    "DESCRIPTION": "Apply !M! ${modID}:Renting to an enemy."
+  },
+  "${modID}:SealTheDeal": {
+    "NAME": "Seal the Deal",
+    "DESCRIPTION": "Apply !M! ${modID}:Housed to an enemy that has at most 2 ${modID}:Renting.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Apply !M! ${modID}:Housed to an enemy that has at most 2 ${modID}:Renting.",
+    "EXTENDED_DESCRIPTION": [
+      "I can't house the enemy if it has more than 2 #rRenting"
+    ]
+  },
+  "${modID}:Eviction": {
+    "NAME": "Eviction",
+    "DESCRIPTION": "If the enemy has more than !M! ${modID}:Sheltered, remove it.",
+    "UPGRADE_DESCRIPTION": "Retain. NL If the enemy has more than !M! ${modID}:Sheltered, remove it.",
+    "EXTENDED_DESCRIPTION": [
+      "I can't evict enemies with less than %d #rSheltered."
+    ]
+  },
+  "${modID}:RatInfestation": {
+    "NAME": "Rat Infestation",
+    "DESCRIPTION": "${modID}:Invest !${modID}:Invest!. NL Deal !D! damage. NL Apply !M! Poison to ${modID}:Sheltered enemies.",
+    "EXTENDED_DESCRIPTION": [
+      "I don't have enough #rGold to play this card!"
+    ]
+  },
+  "${modID}:Graffiti": {
+    "NAME": "Graffiti",
+    "DESCRIPTION": "${modID}:Invest !${modID}:Invest!. NL Apply !M! *Mark and 1 Weak to ALL enemies. NL ALL enemies lose HP equal to their *Mark.",
+    "EXTENDED_DESCRIPTION": [
+      "I don't have enough #rGold to play this card!"
+    ]
+  },
+  "${modID}:DodgeTheAllegations": {
+    "NAME": "Dodge the Allegations",
+    "DESCRIPTION": "${modID}:Invest !${modID}:Invest!. NL Gain !B! Block.",
+    "EXTENDED_DESCRIPTION": [
+      "I don't have enough #rGold to play this card!"
+    ]
+  },
+  "${modID}:StainOnShirt": {
+    "NAME": "Stain on your Shirt",
+    "DESCRIPTION": "Apply !M! *Mark. NL Gain Block equal to the enemy's *Mark."
+  },
+  "${modID}:BreakTheWindows": {
+    "NAME": "Break the Windows",
+    "DESCRIPTION": "Deal !D! damage. Repeat for each ${modID}:Sheltered stack above !M!, then remove it."
+  },
+  "${modID}:CallForMaintenance": {
+    "NAME": "Call for Maintenance",
+    "DESCRIPTION": "${modID}:Invest !${modID}:Invest!. NL Draw !M! cards.",
+    "EXTENDED_DESCRIPTION": [
+      "I don't have enough #rGold to play this card!"
+    ]
+  },
+  "${modID}:PipeBurst": {
+    "NAME": "Pipe Burst",
+    "DESCRIPTION": "${modID}:Invest !${modID}:Invest!. NL Deal damage equal to !M! times the amount of ${modID}:Sheltered stacks the enemy has.",
+    "EXTENDED_DESCRIPTION": [
+      "I don't have enough #rGold to play this card!",
+      "The enemy isn't #rSheltered!"
+    ]
+  },
+  "${modID}:DriveBy": {
+    "NAME": "Drive-By",
+    "DESCRIPTION": "${modID}:Invest !${modID}:Invest!. NL Deal !D! damage to ALL enemies.",
+    "EXTENDED_DESCRIPTION": [
+      "I don't have enough #rGold to play this card!"
+    ]
+  },
+  "${modID}:DumpTheTrash": {
+    "NAME": "Dump the Trash",
+    "DESCRIPTION": "${modID}:Invest !${modID}:Invest!. NL Discard up to !M! cards, gaining 4 Vigor per card discarded this way.",
+    "EXTENDED_DESCRIPTION": [
+      "I don't have enough #rGold to play this card!"
+    ]
+  },
+  "${modID}:RaiseRent": {
+    "NAME": "Raise the Rent",
+    "DESCRIPTION": "${modID}:Invest !${modID}:Invest!. NL Next turn, draw !M! and gain !M! energy for each ${modID}:Sheltered enemy. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "I don't have enough #rGold to play this card!"
+    ]
+  },
+  "${modID}:StealTheMail": {
+    "NAME": "Steal the Mail",
+    "DESCRIPTION": "Steal an enemy's Block. NL Deal !D! damage."
+  },
+  "${modID}:Dependency": {
+    "NAME": "Dependency",
+    "DESCRIPTION": "${modID}:Invest !${modID}:Invest!. NL ALL enemies gain !M! Block. NL ALL enemies gain Barricade. NL Apply ${modID}:Dependent to ALL enemies. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "I don't have enough #rGold to play this card!"
+    ]
+  },
+  "${modID}:PowerfulDecor": {
+    "NAME": "Powerful Decor",
+    "DESCRIPTION": "For each ${modID}:Sheltered enemy, gain !M! Strength. NL At the end of your turn, lose !M! Strength."
+  },
+  "${modID}:CutTheFunding": {
+    "NAME": "Cut the Funding",
+    "DESCRIPTION": "Ethereal. NL When you play a card with ${modID}:Invest, lose !M! less *Gold."
+  },
+  "${modID}:OverflowingPockets": {
+    "NAME": "Overflowing Pockets",
+    "DESCRIPTION": "${modID}:Invest !${modID}:Invest!. NL Cards that ${modID}:Invest more than !M! are played twice."
+  },
+  "${modID}:IOwnThisPlace": {
+    "NAME": "I Own This Place",
+    "DESCRIPTION": "${modID}:Invest !${modID}:Invest!. NL Deal damage equal to the damage the enemy intents to do.",
+    "UPGRADE_DESCRIPTION": "${modID}:Invest !${modID}:Invest!. NL The enemy loses HP equal to the damage they intent to do.",
+    "EXTENDED_DESCRIPTION": [
+      "I don't have enough #rGold to play this card!"
+    ]
+  },
+  "${modID}:PickPocket": {
+    "NAME": "Pickpocket",
+    "DESCRIPTION": "When you deal unblocked damage, gain !M! *Gold."
+  }
+}

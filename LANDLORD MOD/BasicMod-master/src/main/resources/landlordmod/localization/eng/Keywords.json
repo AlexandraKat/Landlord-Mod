@@ -1,0 +1,45 @@
+[
+  {
+    "ID":"invest",
+    "PROPER_NAME": "Invest",
+    "NAMES": [
+      "invest",
+      "invests",
+      "invested"
+    ],
+    "DESCRIPTION": "Cards with 'Invest X' cost X gold to play."
+  },
+  {
+    "ID":"sheltered",
+    "PROPER_NAME": "Sheltered",
+    "NAMES": [
+      "sheltered"
+    ],
+    "DESCRIPTION": "#ySheltered enemies give #yGold, up to a maximum of 100. NL Sheltered increases to a maximum of #b10. NL For each stack above #b5, #ySheltered enemies gain #b1 #yStrength per turn."
+  },
+  {
+    "ID":"renting",
+    "PROPER_NAME": "Renting",
+    "NAMES": [
+      "renting"
+    ],
+    "DESCRIPTION": "#yRenting is required to make enemies #yHoused. NL Enemy is considered #ySheltered."
+  },
+  {
+    "PROPER_NAME": "Multiword Keyword",
+    "NAMES": [
+      "multiword keyword",
+      "multiword_keyword",
+      "multiword_keywords"
+    ],
+    "DESCRIPTION": "Make sure the first element in NAMES has no underscores. The rest should use _ in the place of spaces. In card text, you'll use the underscore versions."
+  },
+  {
+    "ID": "dependent",
+    "PROPER_NAME": "Dependent",
+    "NAMES": [
+      "dependent"
+    ],
+    "DESCRIPTION": "If this enemy loses ALL of its Block, it gets Stunned."
+  }
+]

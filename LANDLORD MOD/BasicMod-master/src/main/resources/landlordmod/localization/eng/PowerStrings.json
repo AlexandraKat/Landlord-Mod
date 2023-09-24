@@ -1,0 +1,44 @@
+{
+  "${modID}:PowerID": {
+    "NAME": "Ultimate Power",
+    "DESCRIPTIONS": [
+      "You are Very Cool and Strong."
+    ]
+  },
+  "${modID}:ShelteredPower":{
+    "NAME": "Sheltered",
+    "DESCRIPTIONS": [
+      "This enemy is currently #ySheltered, providing #yGold per turn. Can give a maximum of #b100 #yGold."
+    ]
+  },
+  "${modID}:RentingPower": {
+    "NAME": "Renting",
+    "DESCRIPTIONS": [
+      "This enemy is currently #yRenting."
+    ]
+  },
+  "${modID}:DependentPower":{
+    "NAME": "Dependent",
+    "DESCRIPTIONS": [
+      "If this enemy loses ALL of its Block, it gets Stunned."
+    ]
+  },
+  "${modID}:CutTheFundingPower":{
+    "NAME": "Cut the Funding",
+    "DESCRIPTIONS": [
+      "Cards with #yInvest cost less gold to play."
+    ]
+  },
+  "${modID}:OverflowingPocketsPower":{
+    "NAME": "Overflowing Pockets",
+    "DESCRIPTIONS": [
+      "Cards with #yInvest more than this amount are played twice."
+    ]
+  },
+  "${modID}:PickPocketPower": {
+    "NAME": "Pickpocket",
+    "DESCRIPTIONS": [
+      "When you deal unblocked damage, gain Gold."
+    ]
+  }
+}
