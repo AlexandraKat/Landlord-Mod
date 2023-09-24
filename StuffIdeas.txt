@@ -1,0 +1,35 @@
+Common cards:
+Steal the Mail: attack, 1 energy cost, steal all the block from an enemy, then deal some(+) damage to them
+Ceiling leaks: attack, 1 energy cost, invest 1, deals 1 damage 4 times to an(all) enemy
+Beat up: attack, 3(2) energy cost, deals some damage to an enemy, then all enemies lose hp equal to their mark
+Corpse in the attic: unplayable, (retain), at the end of a turn applies 1 poison and 1 mark to renting/housed enemies
+My house, my stuff: skill, 2 energy cost, invest 5, choose 1(2) cards from your draw and discard piles, up to 2(4), play them, and exhaust them
+	
+Uncommon cards:
+Stop calling me: power, 2(1) energy cost, invest 5(2), at the end of your turn, apply 3 mark to renting enemies, 8 to housed
+Not my fault: skill, 3(2) energy cost, invest 10(7), exhaust, chosen enemy loses 2(4) strength
+Frozen Primer: attack, 1 energy cost, invest 4(1), deal 22 damage to a random enemy twice, double damage for housed enemies
+Reuse, reduce, recycle: skill, 0 energy cost, invest 1, exhaust, 1(2) random cards cost 1 less and draw 1 when played
+Single parent?: power, 1 energy cost, invest 1, at the end of your turn, gain block equal to 2(3) times the gold you gained this combat
+Better internet: skill, 0 energy cost, invest 15(30), exhaust, gain 5(10) strength
+Cut the power: skill, 0 energy cost, invest 4(3), exhaust, apply 2(4) vulnerable to all housed/renting enemies
+Eat the bedbugs: skill, 0 energy cost, invest 3(2), exhaust, heal 1 hp for each renting enemy, doubled for housing enemies
+Car slam: attack, X energy cost, invest 1, exhaust, deal 9X damage to all enemies, and 6X next turn
+Blackmail: power, 0 energy cost, invest 5(3), gain 6(9) thorns
+Ill take that: power, 1 energy cost, at the start of your turn, lose 1 gold and draw 2(3) cards
+MY paycheck: attack, 3(2) energy cost, invest 3(2), exhaust, deal damage equal to the enemy's missing health, then gain that much gold
+Hoard: skill, 1 energy cost, invest 1, gain block equal to your health (and the enemies debuffs)
+Grocery shopping: power, 0 energy cost, invest 10(6), gain 1(2) dexterity and 5(6) metallicize
+Debt: power, 0 energy cost, at the end of your turn, lose 1 strength and dexterity, and gain 3(5) gold
+Ignore responsibilities: skill, 2 energy cost, invest 8(6), exhaust, ethereal, gain 1 intangible and 1 buffer
+Brand new car: skill, 0 energy cost, invest 20(15), exhaust, heal all enemies 15(25), all enemies lose their renting/housed
+Yard work: attack, 2 energy cost, invest 1, deal 7 damage to all enemies X times, equal to the turn count(+1)
+Noise complaint: skill, 0 energy cost, exhaust, apply 1 weak and vulnerable to a renting/housed enemy, and all enemies lose hp equal to their mark, repeat at the start of next turn
+Change the locks: skill, 1 energy cost, invest 3, exhaust, renting enemies take 15 damage, and stun a(all) housed enemy
+Your partner is mine: attack, 2 energy cost, invest 10(6), exhaust, deal 1 damage, if an enemy intends to attack, they lose 15 strength this round, otherwise they get stunned
+I own this place: skill, 1(0) energy cost, invest 3(2), exhaust, if an enemy intends to attack, deal damage to them(/they lose hp) equal to their attack
+
+Rare cards:
+Demolition crew: attack, 0 cost, invest 5(4), exhaust, deal damage equal to all enemies equal to 10 times their renting, doubled for housed, then remove their renting/housed
+Extort favors: attack, 1 energy cost, invest 1, exhaust, deal 15(20) damage, if fatal gain a random potion and 30(50) gold
+More property: skill, 3 cost, invest 200(150), exhaust, at the end of combat get a random common or rare relic 
